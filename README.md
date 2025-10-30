@@ -1,10 +1,11 @@
-# 👋 Xin chào, mình là Sơn!
+<img width="1919" height="1079" alt="Screenshot 2025-10-30 084449" src="https://github.com/user-attachments/assets/eb88267e-75bb-4011-82ca-ced17a6ff267" /><img width="1919" height="1079" alt="Screenshot 2025-10-30 084449" src="https://github.com/user-attachments/assets/fb8bfdea-e079-4c84-90f8-49b592306b79" /># 👋 Xin chào, mình là Sơn!
 🎓 Sinh viên IT | 💻 Frontend Developer tập sự | 📍 Hà Nội, Việt Nam  
 
 ---
 
 ## 🌐 Portfolio của mình
-[![My Portfolio](https://raw.githubusercontent.com/Boizi-06/PORTFOLIO/main/screenshot.png)](https://boizi-06.github.io/PORTFOLIO/)
+[![My Portfolio](![Uploading Screenshot 2025-10-30 084449.png…]()
+)](https://boizi-06.github.io/MY-PORTFOLIO/)
 
 > 👉 Bấm vào ảnh trên để xem website Portfolio của mình trực tiếp!
 
