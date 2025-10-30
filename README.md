@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 Portfolio của mình
-[![My Portfolio]<img width="1919" height="1079" alt="Screenshot 2025-10-30 084449" src="https://github.com/user-attachments/assets/eb88267e-75bb-4011-82ca-ced17a6ff267" />](https://boizi-06.github.io/MY-PORTFOLIO/)
+[![My Portfolio](https://boizi-06.github.io/MY-PORTFOLIO/)
 
 
 ---
