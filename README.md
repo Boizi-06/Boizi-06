@@ -1,30 +1,30 @@
-<img width="1919" height="1079" alt="Screenshot 2025-10-30 084449" src="https://github.com/user-attachments/assets/eb88267e-75bb-4011-82ca-ced17a6ff267" /><img width="1919" height="1079" alt="Screenshot 2025-10-30 084449" src="https://github.com/user-attachments/assets/fb8bfdea-e079-4c84-90f8-49b592306b79" /># 👋 Xin chào, mình là Sơn!
-🎓 Sinh viên IT | 💻 Frontend Developer tập sự | 📍 Hà Nội, Việt Nam  
+<img width="1919" height="1079" alt="Screenshot 2025-10-30 084449" src="https://github.com/user-attachments/assets/eb88267e-75bb-4011-82ca-ced17a6ff267" />
+# 👋 Xin chào, mình là Sơn!
+🎓 Sinh viên IT | 💻Intern Frontend Developer | 📍 Hà Nội, Việt Nam  
 
 ---
 
 ## 🌐 Portfolio của mình
-[![My Portfolio](![Uploading Screenshot 2025-10-30 084449.png…]()
-)](https://boizi-06.github.io/MY-PORTFOLIO/)
+[![My Portfolio]<img width="1919" height="1079" alt="Screenshot 2025-10-30 084449" src="https://github.com/user-attachments/assets/eb88267e-75bb-4011-82ca-ced17a6ff267" />](https://boizi-06.github.io/MY-PORTFOLIO/)
 
-> 👉 Bấm vào ảnh trên để xem website Portfolio của mình trực tiếp!
 
 ---
 
-## 🧠 Kỹ năng hiện tại
-- ⚙️ HTML / CSS / JavaScript  
-- 🎨 Responsive design, Flexbox  
+## 🧠 Kỹ năng hiện tại(My skills):
+- ⚙️ HTML / CSS / JavaScript / UI design / TypeScript / React / Github
+- 🎨 Responsive design, Flexbox
 - 🌍 Triển khai web bằng GitHub Pages  
-- 🧩 Học thêm React và UI Design  
+ 
 
 ---
 
-## 🌱 Mục tiêu sắp tới
-> Xây dựng nhiều project cá nhân và cải thiện kỹ năng lập trình Frontend để hướng tới vị trí **Web Developer** chuyên nghiệp.
+## 🌱 Công Việc
+> Đang học Ngành Công Nghệ Thông Tin tại Học Viện Công Nghệ Bưu Chính Viễn Thông(I am studying Information Technology at the Posts and Telecommunications Institute of Technology).
+
 
 ---
 
-### 📫 Liên hệ với mình:
+### 📫 Liên hệ với mình(Contact):
 - 💌 Email: _(son666727@gmail.com)_  
 - 💼 Facebook:_(https://www.facebook.com/hoang.son.185601)_
 - 🐙 [GitHub](https://github.com/Boizi-06)
