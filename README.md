@@ -1,9 +1,9 @@
 <!-- 🎬 Intro Video -->
 <p align="center">
-  <a href="https://boizi-06.github.io/" target="_blank">
-    <img src="https://github.com/Boizi-06/Boizi-06/blob/main/Recording%202025-10-31%20095241.gif" alt="Watch My Intro Video" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Boizi-06/Boizi-06/main/Recording%202025-10-31%20095241.gif
+" alt="Intro Video" width="700" />
 </p>
+****
 
 
 
