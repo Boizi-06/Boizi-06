@@ -1,9 +1,11 @@
 <!-- Banner với hiệu ứng gradient -->
-<div align="center" style="background: linear-gradient(90deg, #6C63FF, #00BCD4); padding: 30px 0; border-radius: 12px;">
+<!-- Banner với hiệu ứng gradient và font mềm mại -->
+<div align="center" style="background: linear-gradient(90deg, #6C63FF, #00BCD4); padding: 35px 0; border-radius: 16px;">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Ho%C3%A0ng+S%C6%A1n+👋;Frontend+Developer+Intern;IT+Student+from+Vietnam" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=30&pause=1000&color=AEEEEE&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ho%C3%A0ng+S%C6%A1n+👋;Frontend+Developer+Intern;IT+Student+from+Vietnam" alt="Typing SVG" />
   </h1>
 </div>
+
 
 <h3 align="center">💻 Frontend Developer | 🎓 IT Student | 📍 Hanoi, Vietnam</h3>
 
