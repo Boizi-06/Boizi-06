@@ -30,7 +30,7 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Boizi-06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Boizi-06&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br><br>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boizi-06&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=Boizi-06&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
