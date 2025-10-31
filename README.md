@@ -52,7 +52,7 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
 
 ### ☁️ Currently Exploring  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,reactnative,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,cloudflare" />
 </p>
 
 ---
