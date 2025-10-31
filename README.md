@@ -49,11 +49,11 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
-
 ### ☁️ Currently Exploring  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,reactnative,firebase,aws,vercel" />
 </p>
+
 
 ---
 
