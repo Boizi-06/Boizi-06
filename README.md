@@ -1,5 +1,11 @@
-<video src="![Uploading image.png…]()
-" width="700" controls></video>
+<!-- 🎬 Intro Video -->
+<p align="center">
+  <a href="https://boizi-06.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🎬_Watch%20My%20Intro%20Video-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Watch My Intro Video" />
+  </a>
+</p>
+
+
 
 
 <!-- 🌈 Banner -->
