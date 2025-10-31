@@ -1,3 +1,6 @@
+<video src="assets/video.mp4" width="700" controls></video>
+
+
 <!-- 🌈 Banner -->
 <div align="center" style="background: linear-gradient(90deg, #6C63FF, #7C4DFF, #00BCD4); padding: 35px 0; border-radius: 14px;">
   <h1 align="center">
