@@ -3,10 +3,6 @@
   <img src="https://raw.githubusercontent.com/Boizi-06/Boizi-06/main/Recording%202025-10-31%20095241.gif" alt="Intro Video" width="700" />
 </p>
 
-
-
-
-
 <!-- 🌈 Banner -->
 <div align="center" style="background: linear-gradient(90deg, #6C63FF, #7C4DFF, #00BCD4); padding: 35px 0; border-radius: 14px;">
   <h1 align="center">
@@ -17,6 +13,8 @@
 ---
 
 ## 👨‍💻 About Me  
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
 Hi there! I'm **Hoàng Sơn**, a passionate **Frontend Developer Intern** from **Hà Nội, Việt Nam 🇻🇳**.  
 I’m currently studying at **PTIT – Posts and Telecommunications Institute of Technology**.  
@@ -33,13 +31,19 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
 🎯 Check out my personal website to see my latest work:  
 👉 **[https://boizi-06.github.io/](https://boizi-06.github.io/)**  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Portfolio GIF">
+</p>
+
 ---
+
+## 📊 GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Boizi-06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Boizi-06&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
- 
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boizi-06&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=Boizi-06&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
@@ -54,15 +58,17 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma" />
 </p>
 
+<img align="right" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="300">
+
 ### ⚙️ Tools & Workflow  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
 ### ☁️ Currently Exploring  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,reactnative,firebase,aws,vercel" />
 </p>
-
 
 ---
 
@@ -74,12 +80,20 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
   <sub><i>“Code. Design. Create. Repeat.”</i></sub>
 </div>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="Coding Animation">
+</p>
+
 ---
 
 ## 🚀 Featured Projects  
 
 ### 🍱 **1. Foodie Web**
 > A web app that displays a list of dishes with features like **like**, **filter**, **sort**, and **pagination**.  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400">
+</p>
 
 - 🌐 **Demo:** [https://boizi-06.github.io/foodie-web](https://boizi-06.github.io/foodie-web)  
 - 💾 **GitHub:** [https://github.com/Boizi-06/foodie-web](https://github.com/Boizi-06/foodie-web)  
@@ -89,6 +103,10 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
 
 ### 💼 **2. Personal Portfolio**
 > My personal website showcasing who I am, my skills, and my creative side.  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400">
+</p>
 
 - 🌐 **Demo:** [https://boizi-06.github.io/](https://boizi-06.github.io/)  
 - 💾 **GitHub:** [https://github.com/Boizi-06/boizi-06.github.io](https://github.com/Boizi-06/boizi-06.github.io)  
@@ -105,6 +123,10 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
 | **2024 (mid)** | Learned React and deployed my first project on GitHub Pages |
 | **2025** | Began internship as a **Frontend Developer**, exploring backend & mobile dev |
 | **Future** | Aiming to master full-stack development & contribute to open-source projects |
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500">
+</p>
 
 ---
 
@@ -123,6 +145,10 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
 - 💼 **Facebook:** [facebook.com/hoang.son.185601](https://www.facebook.com/hoang.son.185601)  
 - 🐙 **GitHub:** [Boizi-06](https://github.com/Boizi-06)  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
+</p>
+
 ---
 
 ## 🤓 Fun Fact  
@@ -130,6 +156,10 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
 > 🎧 I love coding at night — that’s when my creativity flows best.  
 > ☕ Coffee keeps me awake, but solving bugs keeps me alive.  
 > 💫 The best feeling? Seeing your code turn into something *beautifully functional*.  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600">
+</p>
 
 ---
 
