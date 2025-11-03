@@ -1,12 +1,13 @@
 <!-- 🎬 Intro Video -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Boizi-06/Boizi-06/main/Recording%202025-10-31%20095241.gif" alt="Intro Video" width="700" />
-</p>
+<!-- <p align="center">
+  <img src="https://media.giphy.com/media/NVBR6vO6YemwQ/giphy.gif" alt="Intro Video" width="700" />
+</p> -->
+<!-- 🎬 Intro Video --> <p align="center"> <img src="https://raw.githubusercontent.com/Boizi-06/Boizi-06/main/Recording%202025-10-31%20095241.gif" alt="Intro Video" width="700" /> </p>
 
 <!-- 🌈 Banner -->
-<div align="center" style="background: linear-gradient(90deg, #6C63FF, #7C4DFF, #00BCD4); padding: 35px 0; border-radius: 14px;">
+<div align="center" style="background: linear-gradient(90deg, #CBAEFF, #A9D2FF, #B4E1FF); padding: 35px 0; border-radius: 14px;">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=30&pause=1000&color=CDE7FF&center=true&vCenter=true&width=720&lines=Hello%2C+I'm+Ho%C3%A0ng+S%C6%A1n+👋;Frontend+Developer+Intern;IT+Student+from+Vietnam;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=720&lines=Hi+there!+I'm+Ho%C3%A0ng+S%C6%A1n+🌸;Frontend+Developer+Intern;IT+Student+from+Vietnam;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -14,7 +15,7 @@
 
 ## 👨‍💻 About Me  
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQ5MHU5eXRwZWJycWJpeWZxbDk4bHQ0bmh1eWhhdWRjdWZpc2xtdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" width="280">
 
 Hi there! I'm **Hoàng Sơn**, a passionate **Frontend Developer Intern** from **Hà Nội, Việt Nam 🇻🇳**.  
 I’m currently studying at **PTIT – Posts and Telecommunications Institute of Technology**.  
@@ -32,7 +33,7 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
 👉 **[https://boizi-06.github.io/](https://boizi-06.github.io/)**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Portfolio GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdjdmFzbGk0Y3U0eHJhd3U5eDhjNmtjamlrNHJmYWU3YzVzcHRkMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Cmr1OMJ2FN0B2/giphy.gif" alt="Portfolio GIF" width="400">
 </p>
 
 ---
@@ -46,19 +47,19 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boizi-06&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Boizi-06&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Boizi-06&label=Profile+Views&color=B57EDC&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
 
 ## 🧠 Tech Stack  
 
+<img align="right" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="300">
+
 ### 💻 Frontend  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma" />
 </p>
-
-<img align="right" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="300">
 
 ### ⚙️ Tools & Workflow  
 <p align="left">
@@ -75,14 +76,10 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
 ## 🎨 Visual Showcase  
 
 <div align="center">
-  <img src="https://github.com/Boizi-06/Boizi-06/assets/150746234/dev-animation-blue-purple.gif" alt="Developer Animation" width="600px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdlM2l4YmZyZTlzN3kzZDBzdDJ2ajRiaTZ0ZjF2aXZxYmNlNDM4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nFLW7PNGgN3lI68rdv/giphy.gif" width="600px">
   <br>
   <sub><i>“Code. Design. Create. Repeat.”</i></sub>
 </div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500" alt="Coding Animation">
-</p>
 
 ---
 
@@ -91,9 +88,7 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
 ### 🍱 **1. Foodie Web**
 > A web app that displays a list of dishes with features like **like**, **filter**, **sort**, and **pagination**.  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400">
-</p>
+
 
 - 🌐 **Demo:** [https://boizi-06.github.io/foodie-web](https://boizi-06.github.io/foodie-web)  
 - 💾 **GitHub:** [https://github.com/Boizi-06/foodie-web](https://github.com/Boizi-06/foodie-web)  
@@ -104,9 +99,7 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
 ### 💼 **2. Personal Portfolio**
 > My personal website showcasing who I am, my skills, and my creative side.  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400">
-</p>
+
 
 - 🌐 **Demo:** [https://boizi-06.github.io/](https://boizi-06.github.io/)  
 - 💾 **GitHub:** [https://github.com/Boizi-06/boizi-06.github.io](https://github.com/Boizi-06/boizi-06.github.io)  
@@ -115,18 +108,26 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
 ---
 
 ## 🗓️ My Developer Journey  
-
-| Year | Milestone |
+<!-- <p align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h2cXF6MWdkaDRzY2hyOWN6Y2tkZDkxdnl2aHByaTJyNTJseTRpeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="250">
+</p> -->
+ 
+  | Year | Milestone |
 |------|------------|
 | **2023** | Started studying IT at PTIT |
 | **2024** | Built my first responsive web app using HTML, CSS, and JS |
 | **2024 (mid)** | Learned React and deployed my first project on GitHub Pages |
 | **2025** | Began internship as a **Frontend Developer**, exploring backend & mobile dev |
 | **Future** | Aiming to master full-stack development & contribute to open-source projects |
-
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h2cXF6MWdkaDRzY2hyOWN6Y2tkZDkxdnl2aHByaTJyNTJseTRpeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="450">
 </p>
+
+
+
+<!-- <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h2cXF6MWdkaDRzY2hyOWN6Y2tkZDkxdnl2aHByaTJyNTJseTRpeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" width="500">
+</p> -->
 
 ---
 
@@ -138,6 +139,11 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
 - 💬 Contribute to **open-source** projects  
 - 📈 Keep learning and growing every day  
 
+
+<p align="center">
+  <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNng3NjJqNWhoYW9wdnBmcnpqOHZ0Mng1b3FhNnEyY280dWN1YmZ0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif" width="300">
+</p>
+
 ---
 
 ## 📫 Contact Me  
@@ -146,8 +152,9 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
 - 🐙 **GitHub:** [Boizi-06](https://github.com/Boizi-06)  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJtaWJ4anJxNnUxZm9nY2N0aG0xNXFjMzE3bmRqODl0eWZkNzVkYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="120">
 </p>
+
 
 ---
 
@@ -157,12 +164,10 @@ aiming to become a **well-rounded Full-stack Developer** in the near future.
 > ☕ Coffee keeps me awake, but solving bugs keeps me alive.  
 > 💫 The best feeling? Seeing your code turn into something *beautifully functional*.  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600">
-</p>
+
 
 ---
 
 <div align="center">
-  <sub>✨ Designed with passion by <b>Hoàng Sơn</b> — thanks for visiting! ✨</sub>
+  <sub>💖 Designed with love & code by <b>Hoàng Sơn</b> — thanks for visiting! 💖</sub>
 </div>
